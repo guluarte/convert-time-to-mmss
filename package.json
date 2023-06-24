@@ -1,0 +1,8 @@
+{
+  "name": "convert-time-to-mmss",
+  "version": "1.0.0",
+  "description": "Fn converts seconds to MMSS",
+  "main": "index.js",
+  "author": "guluarte",
+  "license": "ISC"
+}
